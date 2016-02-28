@@ -1,0 +1,8 @@
+.classpath
+data
+.metadata
+reports
+test-output
+.settings
+.project
+target
